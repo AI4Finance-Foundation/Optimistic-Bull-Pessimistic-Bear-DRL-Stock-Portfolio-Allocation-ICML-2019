@@ -1,5 +1,5 @@
 # Reinforcement-learning-for-portfolio-allocation
-Optimistic Bull or Pessimistic Bear: Adaptive Deep Reinforcement Learning for Stock Portfolio Allocation
+[Optimistic Bull or Pessimistic Bear: Adaptive Deep Reinforcement Learning for Stock Portfolio Allocation](https://arxiv.org/abs/1907.01503)
 
 If you feel that our code is helpful to you, please cite our paper:
 
